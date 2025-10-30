@@ -1,0 +1,6 @@
+# week5 cleanup
+reports/scaling_validation_v3/archive_*/
+reports/scaling_validation_v3/archive_2025-10-30/
+reports/scaling_validation_v3/reports/
+reports/scaling_validation_v3/**/data/
+reports/scaling_validation_v3/**/cifar-10-python.tar.gz
