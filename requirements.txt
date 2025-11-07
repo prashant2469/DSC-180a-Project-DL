@@ -1,0 +1,26 @@
+# Dependencies for DSC 180A capstone project
+# Install with: pip install -r requirements.txt
+
+# Core numerical stuff
+numpy>=1.21.0
+pandas>=1.3.0
+
+# PyTorch for neural networks
+torch>=1.9.0
+
+# Plotting
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Progress bars (super useful for long runs)
+tqdm>=4.62.0
+
+# Optional: for tokenization in week 6
+# transformers>=4.15.0
+
+# Optional: for CIFAR10 in week 1-5
+# torchvision>=0.10.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
